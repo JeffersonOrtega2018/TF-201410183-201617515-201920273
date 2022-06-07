@@ -3,14 +3,21 @@
 
 **Universidad Peruana de Ciencias Aplicadas**
 =============================================
-## FACULTAD DE INGENIERÍA 
-**Año del Fortalecimiento de la Soberanía Nacional**
-
 
 # CC42 – Complejidad Algorítmica – Trabajo Parcial 
 
 # Profesor:
 Luis Martin Canaval Sánchez 
+
+
+
+
+
+
+
+
+
+
 
 
 # Integrantes
