@@ -7,13 +7,13 @@
 **Año del Fortalecimiento de la Soberanía Nacional**
 
 
-# CC42 – Complejidad Algorítmica – Trabajo Parcial** 
+# CC42 – Complejidad Algorítmica – Trabajo Parcial 
 
-# Profesor:**
+# Profesor:
 Luis Martin Canaval Sánchez 
 
 
-# Integrantes**
+# Integrantes
 
 | Integrantes | Codigo | Usuario | Correo | 
 |---|---|---|---|
