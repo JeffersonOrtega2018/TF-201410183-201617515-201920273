@@ -33,7 +33,7 @@ Luis Martin Canaval Sánchez
 
 # 1. RESUMEN EJECUTIVO 
 
-El siguiente trabajo parcial consiste en elaborar un grafo para representar los distritos de San Borja, una porción de Surquillo y una porción de Santiago de Surco. Se debería seleccionar una sección equivalente a 500 intersecciones por estudiante, lo cual significa aproximadamente más o menos de 80 calles distribuidas. Obviamente ese sería el ideal de calle pero la ciudad de Lima no tiene proporciones cuadráticas exactas, así que se optó por escoger más calles.
+##### El siguiente trabajo parcial consiste en elaborar un grafo para representar los distritos de San Borja, una porción de Surquillo y una porción de Santiago de Surco. Se debería seleccionar una sección equivalente a 500 intersecciones por estudiante, lo cual significa aproximadamente más o menos de 80 calles distribuidas. Obviamente ese sería el ideal de calle pero la ciudad de Lima no tiene proporciones cuadráticas exactas, así que se optó por escoger más calles.
 
 
 
