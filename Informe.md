@@ -50,12 +50,11 @@ Luis Martin Canaval Sánchez
 # 4. DESCRIPCIÓN DE LOS DATOS CONSIGNADOS POR CALLE.
 ##### Con motivo de identificar las diferentes calles del distrito en el grafo, por no mencionar facilitar la creación del mismo, se procedió a numerarlas y considerarlas como calles de único sentido para así tener intersecciones más precisas y sin repetir. Las calles tomadas como muestra son:
 
-01 San Borja Norte
-
-02 De las artes norte
-03 De las artes sur
-04 Luini
-05 Aviación
+* 01 San Borja Norte
+* 02 De las artes norte
+* 03 De las artes sur
+* 04 Luini
+* 05 Aviación
 06 Matier
 07 Miguel Angel
 08 Lopez de Ayala
