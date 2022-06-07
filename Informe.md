@@ -564,7 +564,7 @@ Luis Martin Canaval Sánchez
 * 512  Federico Villareal
 * 513  Av. Alfredo Mendiola
 * 514  Av Perú
-* 515. Av Santa Rosa
+* 515  Av Santa Rosa
 * 516  Av Jose Santos Chocano
 * 517  Jose Carlos Mariategui
 * 518  Av los diamantes
@@ -595,18 +595,18 @@ Luis Martin Canaval Sánchez
 * 543  Las Palmeras
 * 544  Los Zafiros
 * 545  José M.Pereyra
-* 546. Granate
+* 546  Granate
 * 547  Esmeraldas
-* 548. Union
-* 549. Jr Las Azucenas
-* 550 Limocillos
+* 548  Union
+* 549  Jr Las Azucenas
+* 550  Limocillos
 * 551  El Amargon
 * 552  Los Melones
 * 553  C Granadillas
 * 554  Los Pinos
-* 555. Amarantos
-* 556. Fresas 
-* 557. Calistemo
+* 555  Amarantos
+* 556  Fresas 
+* 557  Calistemo
 * 558 Jiron Tritoma
 * 559 Jr La Hidra
 * 560 Azafran
