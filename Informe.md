@@ -9,17 +9,6 @@
 # Profesor:
 Luis Martin Canaval Sánchez 
 
-
-
-
-
-
-
-
-
-
-
-
 # Integrantes
 
 | Integrantes | Codigo | Usuario | Correo | 
@@ -32,17 +21,18 @@ Luis Martin Canaval Sánchez
 **2022 – 1**
 ============
 
-ÍNDICE
-1. RESUMEN EJECUTIVO
-2. OBJETIVOS 
-3. IMAGEN ESTÁTICA DE LA CIUDAD O PORCIÓN DE CIUDAD ELEGIDA. 
-4. DESCRIPCIÓN DE LOS DATOS CONSIGNADOS POR CALLE. 
-5. DESCRIPCIÓN DE LA INFORMACIÓN CONSIGNADA POR INTERSECCIÓN. 
-6. EXPLICACIÓN DE CÓMO SE ELABORÓ EL GRAFO, QUÉ REPRESENTAN LAS ARISTAS Y LOS VÉRTICES.
-7. CONCLUSIONES
+# ÍNDICE
+### 1. RESUMEN EJECUTIVO
+### 2. OBJETIVOS 
+### 3. IMAGEN ESTÁTICA DE LA CIUDAD O PORCIÓN DE CIUDAD ELEGIDA. 
+### 4. DESCRIPCIÓN DE LOS DATOS CONSIGNADOS POR CALLE. 
+### 5. DESCRIPCIÓN DE LA INFORMACIÓN CONSIGNADA POR INTERSECCIÓN. 
+### 6. EXPLICACIÓN DE CÓMO SE ELABORÓ EL GRAFO, QUÉ REPRESENTAN LAS ARISTAS Y LOS VÉRTICES.
+### 7. CONCLUSIONES
 
 
-1. RESUMEN EJECUTIVO 
+RESUMEN EJECUTIVO 
+
 El siguiente trabajo parcial consiste en elaborar un grafo para representar los distritos de San Borja, una porción de Surquillo y una porción de Santiago de Surco. Se debería seleccionar una sección equivalente a 500 intersecciones por estudiante, lo cual significa aproximadamente más o menos de 80 calles distribuidas. Obviamente ese sería el ideal de calle pero la ciudad de Lima no tiene proporciones cuadráticas exactas, así que se optó por escoger más calles.
 
 
