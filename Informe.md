@@ -35,8 +35,6 @@ Luis Martin Canaval Sánchez
 
 ##### El siguiente trabajo parcial consiste en elaborar un grafo para representar los distritos de San Borja, una porción de Surquillo y una porción de Santiago de Surco. Se debería seleccionar una sección equivalente a 500 intersecciones por estudiante, lo cual significa aproximadamente más o menos de 80 calles distribuidas. Obviamente ese sería el ideal de calle pero la ciudad de Lima no tiene proporciones cuadráticas exactas, así que se optó por escoger más calles.
 
-
-
 # 2. OBJETIVOS
 
 *
@@ -46,6 +44,8 @@ Luis Martin Canaval Sánchez
 
 # 3. IMAGEN ESTÁTICA DE LA CIUDAD O PORCIÓN DE CIUDAD ELEGIDA. 
 ##### En esta oportunidad se eligió de forma grupal abarcar el mapa del distrito de San Borja, empezando por su sector centro sur. Debido al tamaño de las cuadras y el número de intersecciones necesarias para el grafo, también se consideraron cuadras y calles pertenecientes a distritos aledaños como lo son Surco y Surquillo. 
+
+![Screenshot](images/Imagen1.png)
 
 # 4. DESCRIPCIÓN DE LOS DATOS CONSIGNADOS POR CALLE.
 ##### Con motivo de identificar las diferentes calles del distrito en el grafo, por no mencionar facilitar la creación del mismo, se procedió a numerarlas y considerarlas como calles de único sentido para así tener intersecciones más precisas y sin repetir. Las calles tomadas como muestra son:
