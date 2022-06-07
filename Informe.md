@@ -674,17 +674,17 @@ Luis Martin Canaval Sánchez
 * 625 C. Los Abedules
 
 
-Como evidencia de que las calles existen, se adjunta una foto sacada de google maps donde se puede apreciar algunas de las calles que se extrajeron de una porción de distrito de Surquillo, en ellas se puede apreciar fácilmente a  la Av Aviacion (nro. 05), Juan Fuentes (nro. 274), Daniel Cruz (nro. 275), Alfa Cisne (nro. 298), Alfa Centauro (nro. 276), Alfa Orion (nro. 292), entre otros
+##### Como evidencia de que las calles existen, se adjunta una foto sacada de google maps donde se puede apreciar algunas de las calles que se extrajeron de una porción de distrito de Surquillo, en ellas se puede apreciar fácilmente a  la Av Aviacion (nro. 05), Juan Fuentes (nro. 274), Daniel Cruz (nro. 275), Alfa Cisne (nro. 298), Alfa Centauro (nro. 276), Alfa Orion (nro. 292), entre otros
 
 # 5. DESCRIPCIÓN DE LA INFORMACIÓN CONSIGNADA POR INTERSECCIÓN. 
-Para las intersecciones, se consideró que los cruces de nuestra área de estudio serían únicos tanto en sus componentes como en sus direcciones. De esa forma, independientemente si la calle se trata de una vía de doble sentido, un jirón o un pasaje, solo tendría una dirección a tener en cuenta a la hora de registrar las intersecciones en el grafo, pero a la vez puede tomarse una dirección diferente en un cruce diferente a uno presentado con anterioridad. Esto permitirá hacer un grafo más dinámico y con más direcciones de entrada y salida de elementos. 
+##### Para las intersecciones, se consideró que los cruces de nuestra área de estudio serían únicos tanto en sus componentes como en sus direcciones. De esa forma, independientemente si la calle se trata de una vía de doble sentido, un jirón o un pasaje, solo tendría una dirección a tener en cuenta a la hora de registrar las intersecciones en el grafo, pero a la vez puede tomarse una dirección diferente en un cruce diferente a uno presentado con anterioridad. Esto permitirá hacer un grafo más dinámico y con más direcciones de entrada y salida de elementos. 
 En la siguiente imagen se puede observar la intersección entre Jr Eduardo Ordoñez y Claudio Galeno, que está representado como el nodo número 507.
 
 # 6. EXPLICACIÓN DE CÓMO SE ELABORÓ EL GRAFO, QUÉ REPRESENTAN LAS ARISTAS Y LOS VÉRTICES.
-Primero tuvimos que enumerar todas las calles que íbamos a usar en la elaboración del grafo. Luego tuvimos que contar las intersecciones que teníamos por calle hasta que cada estudiante llegara a un mínimo de 500 intersecciones, para así poder enumerarlas una por una como si fueran nodos. Finalmente, tuvimos que trabajarlo manualmente para poder convertir los datos de los nodos en una lista de adyacencia que permita un mejor tratamiento de los datos.
-A continuación, se adjunta una visualización gráfica de nuestra lista de las primeras 500 intersecciones (los espacios en blanco representan 0 y los espacios en rojo representan 1):
+##### Primero tuvimos que enumerar todas las calles que íbamos a usar en la elaboración del grafo. Luego tuvimos que contar las intersecciones que teníamos por calle hasta que cada estudiante llegara a un mínimo de 500 intersecciones, para así poder enumerarlas una por una como si fueran nodos. Finalmente, tuvimos que trabajarlo manualmente para poder convertir los datos de los nodos en una lista de adyacencia que permita un mejor tratamiento de los datos.
+##### A continuación, se adjunta una visualización gráfica de nuestra lista de las primeras 500 intersecciones (los espacios en blanco representan 0 y los espacios en rojo representan 1):
 
-Las aristas representan las calles tomadas de los distritos y las aristas son las intersecciones de las calles.
+##### Las aristas representan las calles tomadas de los distritos y las aristas son las intersecciones de las calles.
 
 # 7. CONCLUSIONES
 
