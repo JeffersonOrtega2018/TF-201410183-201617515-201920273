@@ -1,20 +1,20 @@
 
 ![Screenshot](images/logo-upc.jpg)
 
-Universidad Peruana de Ciencias Aplicadas
-=========================================
-FACULTAD DE INGENIERÍA 
-“Año del Fortalecimiento de la Soberanía Nacional”
+**Universidad Peruana de Ciencias Aplicadas**
+=============================================
+## FACULTAD DE INGENIERÍA 
+**“Año del Fortalecimiento de la Soberanía Nacional”**
 
 
-CC42 – Complejidad Algorítmica – Trabajo Parcial 
+**# CC42 – Complejidad Algorítmica – Trabajo Parcial** 
 
 
-Profesor: 
+**# Profesor:** 
 Luis Martin Canaval Sánchez 
 
 
-## Integrantes
+**# Integrantes**
 
 | Integrantes | Codigo | Usuario | Correo | 
 |---|---|---|---|
@@ -23,8 +23,8 @@ Luis Martin Canaval Sánchez
 | Luiggi Daniel Munaya Salcedo | u201617515 | lmsupc | U201617515@upc.edu.pe |
 
 
-2022 – 1
-
+**2022 – 1**
+============
 
 ÍNDICE
 1. RESUMEN EJECUTIVO
