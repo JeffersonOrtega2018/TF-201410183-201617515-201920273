@@ -678,7 +678,7 @@ Luis Martin Canaval Sánchez
 
 # 5. DESCRIPCIÓN DE LA INFORMACIÓN CONSIGNADA POR INTERSECCIÓN. 
 ##### Para las intersecciones, se consideró que los cruces de nuestra área de estudio serían únicos tanto en sus componentes como en sus direcciones. De esa forma, independientemente si la calle se trata de una vía de doble sentido, un jirón o un pasaje, solo tendría una dirección a tener en cuenta a la hora de registrar las intersecciones en el grafo, pero a la vez puede tomarse una dirección diferente en un cruce diferente a uno presentado con anterioridad. Esto permitirá hacer un grafo más dinámico y con más direcciones de entrada y salida de elementos. 
-En la siguiente imagen se puede observar la intersección entre Jr Eduardo Ordoñez y Claudio Galeno, que está representado como el nodo número 507.
+##### En la siguiente imagen se puede observar la intersección entre Jr Eduardo Ordoñez y Claudio Galeno, que está representado como el nodo número 507.
 
 # 6. EXPLICACIÓN DE CÓMO SE ELABORÓ EL GRAFO, QUÉ REPRESENTAN LAS ARISTAS Y LOS VÉRTICES.
 ##### Primero tuvimos que enumerar todas las calles que íbamos a usar en la elaboración del grafo. Luego tuvimos que contar las intersecciones que teníamos por calle hasta que cada estudiante llegara a un mínimo de 500 intersecciones, para así poder enumerarlas una por una como si fueran nodos. Finalmente, tuvimos que trabajarlo manualmente para poder convertir los datos de los nodos en una lista de adyacencia que permita un mejor tratamiento de los datos.
