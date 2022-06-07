@@ -45,10 +45,11 @@ Luis Martin Canaval Sánchez
 
 
 # 3. IMAGEN ESTÁTICA DE LA CIUDAD O PORCIÓN DE CIUDAD ELEGIDA. 
-En esta oportunidad se eligió de forma grupal abarcar el mapa del distrito de San Borja, empezando por su sector centro sur. Debido al tamaño de las cuadras y el número de intersecciones necesarias para el grafo, también se consideraron cuadras y calles pertenecientes a distritos aledaños como lo son Surco y Surquillo. 
+##### En esta oportunidad se eligió de forma grupal abarcar el mapa del distrito de San Borja, empezando por su sector centro sur. Debido al tamaño de las cuadras y el número de intersecciones necesarias para el grafo, también se consideraron cuadras y calles pertenecientes a distritos aledaños como lo son Surco y Surquillo. 
 
 # 4. DESCRIPCIÓN DE LOS DATOS CONSIGNADOS POR CALLE.
-Con motivo de identificar las diferentes calles del distrito en el grafo, por no mencionar facilitar la creación del mismo, se procedió a numerarlas y considerarlas como calles de único sentido para así tener intersecciones más precisas y sin repetir. Las calles tomadas como muestra son:
+##### Con motivo de identificar las diferentes calles del distrito en el grafo, por no mencionar facilitar la creación del mismo, se procedió a numerarlas y considerarlas como calles de único sentido para así tener intersecciones más precisas y sin repetir. Las calles tomadas como muestra son:
+
 01 San Borja Norte
 02 De las artes norte
 03 De las artes sur
