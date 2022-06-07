@@ -1,7 +1,8 @@
 
 ![Screenshot](images/logo-upc.jpg)
 
-Universidad Peruana de Ciencias Aplicadas 
+Universidad Peruana de Ciencias Aplicadas
+=========================================
 FACULTAD DE INGENIERÍA 
 “Año del Fortalecimiento de la Soberanía Nacional”
 
