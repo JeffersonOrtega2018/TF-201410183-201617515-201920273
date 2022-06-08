@@ -8,7 +8,7 @@ Informacion de Trafico por las calles
 * Mediodia: 12 pm a 14 pm
 * Noche: 18 pm a 20 pm
 
-Calles principales aplicadas:
+### Calles principales aplicadas:
 * Javier Prado Este
 * Guardia Civil
 * Andreas Vesalio
