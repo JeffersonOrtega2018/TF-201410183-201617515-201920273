@@ -3,7 +3,7 @@ Informacion de Trafico por las calles
 
 ### Investigando un poco acerca de las calles que hemos tomado como referencia y tomando en cuenta el conocimiento empirico del alumno Jefferson Ortega, se decidio que las "horas puntas" de trafico son en 3 momentos del dia y se aplican principalmente a las avenidas principales (a excepcion de Panamericana Sur)
 
-Hora de los momentos del dia en que el trafico esta en hora punta:
+### Hora de los momentos del dia en que el trafico esta en hora punta:
 * Mañana: 6 am a 9 am
 * Mediodia: 12 pm a 14 pm
 * Noche: 18 pm a 20 pm
