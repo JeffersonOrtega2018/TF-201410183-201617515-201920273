@@ -8,19 +8,19 @@ Mediodia: 12 pm a 14 pm
 Noche: 18 pm a 20 pm
 
 Calles principales aplicadas:
-Javier Prado Este
-Guardia Civil
-Andreas Vesalio
-Paseo del Bosque
-Aviacion
-Jose Galvez Barrenechea
-Joaquin de la Madrid
-san Luis
-Avenida Principal
-Manuel Villaran
-Intihuatana
-Caminos del Inca
-Higuereta
-Pedro Venturo
-Primavera
-Alfredo Benavides
+* Javier Prado Este
+* Guardia Civil
+* Andreas Vesalio
+* Paseo del Bosque
+* Aviacion
+* Jose Galvez Barrenechea
+* Joaquin de la Madrid
+* San Luis
+* Avenida Principal
+* Manuel Villaran
+* Intihuatana
+* Caminos del Inca
+* Higuereta
+* Pedro Venturo
+* Primavera
+* Alfredo Benavides
