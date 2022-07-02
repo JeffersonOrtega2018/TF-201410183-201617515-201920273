@@ -28,7 +28,8 @@ Luis Martin Canaval Sánchez
 ### 4. DESCRIPCIÓN DE LOS DATOS CONSIGNADOS POR CALLE. 
 ### 5. DESCRIPCIÓN DE LA INFORMACIÓN CONSIGNADA POR INTERSECCIÓN. 
 ### 6. EXPLICACIÓN DE CÓMO SE ELABORÓ EL GRAFO, QUÉ REPRESENTAN LAS ARISTAS Y LOS VÉRTICES.
-### 7. CONCLUSIONES
+### 7. DESCRIPCIÓN DE LA CODIFICACIÓN DEL TRABAJO FINAL
+### 8. CONCLUSIONES
 
 
 # 1. RESUMEN EJECUTIVO 
@@ -37,9 +38,8 @@ Luis Martin Canaval Sánchez
 
 # 2. OBJETIVOS
 
-*
-*
-*
+* Construir nuestro propio “waze”, es decir un sistema que nos permita encontrar la ruta más corta entre 2 puntos en una ciudad.
+* Evidenciar el Outcome “Responsabilidad y ética profesional”.
 
 
 # 3. IMAGEN ESTÁTICA DE LA CIUDAD O PORCIÓN DE CIUDAD ELEGIDA. 
@@ -699,9 +699,25 @@ Luis Martin Canaval Sánchez
 
 ![Screenshot](images/Imagen8.png)
 
-# 7. CONCLUSIONES
+# 7. DESCRIPCIÓN DE LA CODIFICACIÓN DEL TRABAJO FINAL
 
-*
-*
-*
+Para el trabajo conjunto del equipo, se utilizó el uso de un repositorio público en GitHub.
+Link del repositorio: https://github.com/JeffersonOrtega2018/TF-201410183-201617515-201920273 
+
+Dentro de este repositorio, se añadieron todos los datos de las coordenadas de nuestras intersecciones.
+
+Asimismo, se añadió la codificación correspondiente para la implementación de todo el trabajo final.
+
+Adicionalmente, se usaron algoritmos para transformar los datos que teníamos en grafos y lista de adyacencia.
+
+Como dato adicional, se muestra el código de implementación de interfaz que fue entregado por el docente.
+
+# 8. CONCLUSIONES
+
+1. Gran parte de los conocimientos adquiridos dentro del curso fueron de vital importancia para el desarrollo del trabajo final, ya que todos estos se aplicaron satisfactoriamente.
+2. El razonamiento cuantitativo del curso se llevó a cabo exitosamente.
+3. Creemos que todas las competencias del curso de Complejidad Algorítmica fueron completadas a gran medida debido a que se puedo llevar a cabo todas las instancias del trabajo final.
+4. El trabajo final sirve como entrenamiento y preparación para el mundo laboral, ya que en un futuro podríamos implementar un software similar al trabajo final.
+5. Gracias a la realización del trabajo final, se aprendieron nuevas cosas que posiblemente no estaban dentro del curso como por ejemplo el manejo colaborativo de la herramienta GitHub.
+
 
