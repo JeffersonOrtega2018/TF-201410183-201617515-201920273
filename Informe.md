@@ -709,7 +709,7 @@ Luis Martin Canaval Sánchez
 ![Screenshot](images/Imagen11.png)
 
 ##### Asimismo, se añadió la codificación correspondiente para la implementación de todo el trabajo final.
--
+
 ![Screenshot](images/Imagen12.png)
 -
 ![Screenshot](images/Imagen13.png)
@@ -717,7 +717,7 @@ Luis Martin Canaval Sánchez
 ![Screenshot](images/Imagen14.png)
 -
 ![Screenshot](images/Imagen15.png)
--
+
 ##### Adicionalmente, se usaron algoritmos para transformar los datos que teníamos en grafos y lista de adyacencia.
 ![Screenshot](images/Imagen16.png)
 
