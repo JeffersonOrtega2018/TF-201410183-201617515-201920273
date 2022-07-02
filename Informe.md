@@ -701,31 +701,35 @@ Luis Martin Canaval Sánchez
 
 # 7. DESCRIPCIÓN DE LA CODIFICACIÓN DEL TRABAJO FINAL
 
-Para el trabajo conjunto del equipo, se utilizó el uso de un repositorio público en GitHub.
-Link del repositorio: https://github.com/JeffersonOrtega2018/TF-201410183-201617515-201920273 
+##### Para el trabajo conjunto del equipo, se utilizó el uso de un repositorio público en GitHub.
+##### Link del repositorio: https://github.com/JeffersonOrtega2018/TF-201410183-201617515-201920273 
 ![Screenshot](images/Imagen10.png)
 
-Dentro de este repositorio, se añadieron todos los datos de las coordenadas de nuestras intersecciones.
+##### Dentro de este repositorio, se añadieron todos los datos de las coordenadas de nuestras intersecciones.
 ![Screenshot](images/Imagen11.png)
 
-Asimismo, se añadió la codificación correspondiente para la implementación de todo el trabajo final.
+##### Asimismo, se añadió la codificación correspondiente para la implementación de todo el trabajo final.
+-
 ![Screenshot](images/Imagen12.png)
+-
 ![Screenshot](images/Imagen13.png)
+-
 ![Screenshot](images/Imagen14.png)
+-
 ![Screenshot](images/Imagen15.png)
-
-Adicionalmente, se usaron algoritmos para transformar los datos que teníamos en grafos y lista de adyacencia.
+-
+##### Adicionalmente, se usaron algoritmos para transformar los datos que teníamos en grafos y lista de adyacencia.
 ![Screenshot](images/Imagen16.png)
 
-Como dato adicional, se muestra el código de implementación de interfaz que fue entregado por el docente.
+##### Como dato adicional, se muestra el código de implementación de interfaz que fue entregado por el docente.
 ![Screenshot](images/Imagen17.png)
 
 # 8. CONCLUSIONES
 
-1. Gran parte de los conocimientos adquiridos dentro del curso fueron de vital importancia para el desarrollo del trabajo final, ya que todos estos se aplicaron satisfactoriamente.
-2. El razonamiento cuantitativo del curso se llevó a cabo exitosamente.
-3. Creemos que todas las competencias del curso de Complejidad Algorítmica fueron completadas a gran medida debido a que se puedo llevar a cabo todas las instancias del trabajo final.
-4. El trabajo final sirve como entrenamiento y preparación para el mundo laboral, ya que en un futuro podríamos implementar un software similar al trabajo final.
-5. Gracias a la realización del trabajo final, se aprendieron nuevas cosas que posiblemente no estaban dentro del curso como por ejemplo el manejo colaborativo de la herramienta GitHub.
+##### 1. Gran parte de los conocimientos adquiridos dentro del curso fueron de vital importancia para el desarrollo del trabajo final, ya que todos estos se aplicaron satisfactoriamente.
+##### 2. El razonamiento cuantitativo del curso se llevó a cabo exitosamente.
+##### 3. Creemos que todas las competencias del curso de Complejidad Algorítmica fueron completadas a gran medida debido a que se puedo llevar a cabo todas las instancias del trabajo final.
+##### 4. El trabajo final sirve como entrenamiento y preparación para el mundo laboral, ya que en un futuro podríamos implementar un software similar al trabajo final.
+##### 5. Gracias a la realización del trabajo final, se aprendieron nuevas cosas que posiblemente no estaban dentro del curso como por ejemplo el manejo colaborativo de la herramienta GitHub.
 
 
