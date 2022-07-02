@@ -703,14 +703,22 @@ Luis Martin Canaval Sánchez
 
 Para el trabajo conjunto del equipo, se utilizó el uso de un repositorio público en GitHub.
 Link del repositorio: https://github.com/JeffersonOrtega2018/TF-201410183-201617515-201920273 
+![Screenshot](images/Imagen10.png)
 
 Dentro de este repositorio, se añadieron todos los datos de las coordenadas de nuestras intersecciones.
+![Screenshot](images/Imagen11.png)
 
 Asimismo, se añadió la codificación correspondiente para la implementación de todo el trabajo final.
+![Screenshot](images/Imagen12.png)
+![Screenshot](images/Imagen13.png)
+![Screenshot](images/Imagen14.png)
+![Screenshot](images/Imagen15.png)
 
 Adicionalmente, se usaron algoritmos para transformar los datos que teníamos en grafos y lista de adyacencia.
+![Screenshot](images/Imagen16.png)
 
 Como dato adicional, se muestra el código de implementación de interfaz que fue entregado por el docente.
+![Screenshot](images/Imagen17.png)
 
 # 8. CONCLUSIONES
 
