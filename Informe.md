@@ -732,4 +732,6 @@ Luis Martin Canaval Sánchez
 ##### 4. El trabajo final sirve como entrenamiento y preparación para el mundo laboral, ya que en un futuro podríamos implementar un software similar al trabajo final.
 ##### 5. Gracias a la realización del trabajo final, se aprendieron nuevas cosas que posiblemente no estaban dentro del curso como por ejemplo el manejo colaborativo de la herramienta GitHub.
 
+##### Gracias :3
+
 
