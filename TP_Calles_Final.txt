@@ -220,7 +220,6 @@ Marco Collantes
 219 Esteban Bentarelli
 
 
-
 Jefferson Ortega 
 220 Jr Mercator
 221 Eduardo Ordoñez
@@ -479,7 +478,6 @@ Jefferson Ortega
 
 
 Daniel Minaya
-
 474  Av Canta Callao
 475  Av Naranjal
 476  Av Los Alisos
